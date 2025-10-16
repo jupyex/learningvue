@@ -1,5 +1,4 @@
 # Day 1 Tasks
-**Teacher:** Excellent! Here are 10 exercises to practice your Vue skills, from easiest to hardest:
 
 ## 🟢 Easy (1-3)
 1. **Counter App**: Create a counter that displays a number and has two buttons to increment/decrement it.
@@ -23,7 +22,3 @@
 9. **Filterable List**: Create a search input that filters a list of items as you type.
 
 10. **Multi-step Form**: Build a 3-step form where users can navigate between steps with "Next/Previous" buttons, and the form remembers all inputs.
-
-**Remember:** Start with exercise 1 and work your way up! Each exercise will help you master a different combination of the tools you learned.
-
-Which exercise would you like to start with?
