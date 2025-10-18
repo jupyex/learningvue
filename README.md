@@ -22,3 +22,7 @@
 9. **Filterable List**: Create a search input that filters a list of items as you type.
 
 10. **Multi-step Form**: Build a 3-step form where users can navigate between steps with "Next/Previous" buttons, and the form remembers all inputs.
+
+# Day 2 - Simple Todo App
+<img width="655" height="225" alt="image" src="https://github.com/user-attachments/assets/bfb5800d-05c1-4aa3-a6ad-272b2134a902" />
+
